@@ -1,2 +1,3 @@
 # LIMO
-code for limo navigation &amp; line tracing
+code for limo  line tracing
+contains the pgm and yaml file for navigation 
